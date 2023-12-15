@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: e180b05b3c0c2c141a29882027d2b008
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6f20790200b524ab6b2dd38aca165b
+      internalID: -554276960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 5148
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.518505, y: 0.5462689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d02a8f2b9747e48ab121ef5f9dc390
+      internalID: -1812644293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afeb6f34e9f0aa4aba41f8c2c0c4933
+      internalID: 3919129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 5148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b3a3314edfcaf4baa86838c9291773
+      internalID: 1078562094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 5148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048af73aca80b7247a4b97a5cd2cbc91
+      internalID: -1869246525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 5148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a448eda71d76114294a6e915d7e52a2
+      internalID: -1749818563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 5148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2f5138878500f4f8955e93904a2a55
+      internalID: 2092750591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 5148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12de5e2c0f5d32243b8d100eedcc27e2
+      internalID: -619173284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 5148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aca3f705b180c34abb119ce229fb266
+      internalID: 145670089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 5148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16780a4c9e5dd3b459d20ce81181da4b
+      internalID: -592198596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 5148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8e6e349b0ade24a85fdfa4a674d634
+      internalID: 261140116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_11
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 5148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a497dddcbbccef439e731eb4400eb46
+      internalID: 1566935567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 5148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365adbcc1ad9ede4dbc265c0b1c25b18
+      internalID: 213952940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looking up 1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 5043
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512a20d890909384787750316ac29bdb
+      internalID: -1592025579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looking up 2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5043
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a435ffd153413d441a38957705bdd9a1
+      internalID: 1125563890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looking up 3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 5043
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5365401, y: 0.4658203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495d755f99af3d849a3d6c96ba7ad009
+      internalID: -924762949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looking up 4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5043
+        width: 26
+        height: 25
+      alignment: 9
+      pivot: {x: 0.51412904, y: 0.4621582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9ac86903e8d03449731063af58a6da
+      internalID: -48676163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looking up 5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5043
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e82aa1056cc0414b9754f6866d03867
+      internalID: 219215052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looking up 6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5043
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d6701d437e42448af72c4a9f4e4426
+      internalID: 56630936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire up 1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 5043
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5155862a289b26449bc300ecd59f1f4
+      internalID: 1167987860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire up 2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 5043
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c498e3e9a4dc9d46bed42f01985557d
+      internalID: 561117550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire up 3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 5043
+        width: 20
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8541a398fa2a517409df8b1c6c41c157
+      internalID: 1721458681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire up 4
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 5043
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a07415e6ec43974abc9e62bd4cf6fa4
+      internalID: 632298308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire 5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 5043
+        width: 21
+        height: 34
+      alignment: 9
+      pivot: {x: 0.53364056, y: 0.52018696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd6a1e5846a05748ac1cdcebd1775b5
+      internalID: -274268554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire up 6
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 5043
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebd89a21e53c124aad400feebeb7a09
+      internalID: 483015713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire up 7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 5043
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8d3475b15fb5a4f8a9307037802d4d
+      internalID: 1759201395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire up 8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 5043
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba675c6b1c96e6c478aa6e3041f750cc
+      internalID: -867215671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire up 9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 5043
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d706ce15153374290f6c28608fa0a6
+      internalID: -1310255119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire up 10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 5043
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aa7aa86feb4254ba75be4e2941215b
+      internalID: 1354115480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire down 1
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 5104
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effa2435b97c59d4aa0086cdac94de98
+      internalID: -686216291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire down 2
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 5102
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374cc3022817af345b90aaec00ba8a6c
+      internalID: 1661617812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire down 3
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 5099
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4444c8eb7cb85d84e9d30b7e42fe779b
+      internalID: 1645276369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire down 4
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 5082
+        width: 21
+        height: 55
+      alignment: 9
+      pivot: {x: 0.51682246, y: 0.4936872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879d3d7391894b94398167b3363e7164
+      internalID: 1282286053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire down 5
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 5082
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9161233590dbd0e44879e10267deb633
+      internalID: -222355058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire down  6
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 5079
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f132c18227868d2418a49efd2fe24947
+      internalID: 1298422286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire down 7
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 5106
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9b617a27f2e1b45b5b95eff6960815
+      internalID: -1288779393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire down 8
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 5100
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43495a6c682194459e5f534127e9ffb
+      internalID: -1382052666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire down 9
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 5101
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d858d4d324f9244b5b338dc46142c3
+      internalID: -1038170959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_0: -554276960
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_1: -1812644293
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_10: 261140116
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_11: 1566935567
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_12: 213952940
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_2: 3919129
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_3: 1078562094
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_4: -1869246525
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_5: -1749818563
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_6: 2092750591
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_7: -619173284
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_8: 145670089
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Fiolina Germi_9: -592198596
+      fire 5: -274268554
+      fire down  6: 1298422286
+      fire down 1: -686216291
+      fire down 2: 1661617812
+      fire down 3: 1645276369
+      fire down 4: 1282286053
+      fire down 5: -222355058
+      fire down 7: -1288779393
+      fire down 8: -1382052666
+      fire down 9: -1038170959
+      fire up 1: 1167987860
+      fire up 10: 1354115480
+      fire up 2: 561117550
+      fire up 3: 1721458681
+      fire up 4: 632298308
+      fire up 6: 483015713
+      fire up 7: 1759201395
+      fire up 8: -867215671
+      fire up 9: -1310255119
+      looking up 1: -1592025579
+      looking up 2: 1125563890
+      looking up 3: -924762949
+      looking up 4: -48676163
+      looking up 5: 219215052
+      looking up 6: 56630936
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
