@@ -14,6 +14,7 @@ public class MobileManager : MonoBehaviour
     bool btnPressShoot;
     bool btnPressJump;
 #if UNITY_STANDALONE
+    [SerializeField]
     private bool forceOnStandalone = false;
 #endif
 
@@ -67,13 +68,13 @@ public class MobileManager : MonoBehaviour
         if (!current)
             return false;
 
-#if UNITY_STANDALONE
+        #if UNITY_STANDALONE
         if (current.forceOnStandalone)
            return current._GetButtonGrenade();
         return Input.GetKeyDown(KeyCode.G);
-#else
-        return current._GetButtonGrenade();
-#endif
+        #else
+            return current._GetButtonGrenade();
+        #endif
     }
 
     bool _GetButtonFire1()
