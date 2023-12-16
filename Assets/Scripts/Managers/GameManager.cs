@@ -37,6 +37,7 @@ public class GameManager : MonoBehaviour
     public LayerMask walkableLayer;
     public LayerMask playerLayer;
 
+
     void Awake()
     {
         //If a Game Manager exists and this isn't it...
@@ -59,7 +60,6 @@ public class GameManager : MonoBehaviour
         LoadSettings();
         LoadRecords();
         SaveRecords();
-
         GameReset();
     }
 

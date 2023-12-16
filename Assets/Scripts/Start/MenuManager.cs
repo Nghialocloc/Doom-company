@@ -12,6 +12,7 @@ public class MenuManager : MonoBehaviour
     public TextMeshProUGUI startText;
 
     [Header("Menu Groups")]
+    public GameObject intro;
     public GameObject start;
     public GameObject choose;
     public GameObject chooseMode;
@@ -85,6 +86,14 @@ public class MenuManager : MonoBehaviour
     }
 
     // Start is called before the first frame update
+
+    public void PressIntro()
+    {
+        start.gameObject.SetActive(true);
+        intro.gameObject.SetActive(false);
+    }
+
+
     public void PressStart()
     {
         choose.gameObject.SetActive(true);
